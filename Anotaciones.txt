@@ -1,0 +1,9 @@
+Que es la deuda tecnica: Es simplemente la falta de calidad del codigo, generalmente siempre habra deuda
+Aveces es inevitable la  deuda tecnica lo que diferencia de un buen programador, es preocuparse por pagar esta deuda
+y como se paga? REFACTORIZACION
+
+-------------
+Arrays: debe de estar en plural y definir que contiene exactamente
+Boolean: debe de utilizarse "is" "has" "can" deden de ser afirmacion
+Number: "max" "min" "total"
+Function: prefijo de accion "create" "send" y nombre o vervo y sustantivo
