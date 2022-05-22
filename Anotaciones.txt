@@ -6,6 +6,9 @@ y como se paga? REFACTORIZACION
 Arrays: debe de estar en plural y definir que contiene exactamente
 Boolean: debe de utilizarse "is" "has" "can" deden de ser afirmacion
 Number: "max" "min" "total"
-Function: prefijo de accion "create" "send" y nombre o vervo y sustantivo, las funciones tienen que hacer exactamente lo que dice su nombre nada mas
-tienen que tener un maximo de 3 parametros, intentar ordenar los argumentos de manera alfabetica
-Clases: Tiene que ser un sutantivo o frases con sustantivo, Que exactamente hace la clase? 
+Function: prefijo de accion "create" "send" y nombre o verbo y sustantivo, las funciones tienen que hacer exactamente lo que dice su nombre nada mas,
+tienen que tener un maximo de 3 parametros, intentar ordenar los argumentos de manera alfabetica, las funciones deben de ser cortas menos de 20 lineas de codigo, evitar el uso del "else" utilizar condicional ternaria
+Clases: Tiene que ser un sutantivo o frases con sustantivo, Que exactamente hace la clase?
+------------------------
+Principios DRY
+No repitas lo mismo
