@@ -12,3 +12,4 @@ Clases: Tiene que ser un sutantivo o frases con sustantivo, Que exactamente hace
 ------------------------
 Principios DRY
 No repitas lo mismo
+copiar y pegar codigo significa que debemos estar alertas indica que hay que refactorizar
