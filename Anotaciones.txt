@@ -13,3 +13,11 @@ Clases: Tiene que ser un sutantivo o frases con sustantivo, Que exactamente hace
 Principios DRY
 No repitas lo mismo
 copiar y pegar codigo significa que debemos estar alertas indica que hay que refactorizar
+
+Principios SOLID
+-Principio de responsabilidad unica
+-Open/Close este principio se utilzo el ejemplo de cuando se realizan peticion HTTP
+en angular se crea un servicio para no depender de una liberia
+-Princio de sutitucion de Liskov
+Clases o metodos que pueda recibir como argumento o subclases sin tener que hacer
+cambios en el codigo
